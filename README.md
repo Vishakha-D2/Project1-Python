@@ -8,6 +8,9 @@ Data Analysis or sometimes referred to as Exploratory Data Analysis (EDA) is one
 * Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
 
 ## Conclusion :-
+### Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
+#### Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
+##### Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
 ###### Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.
 
 ## Contact :-
